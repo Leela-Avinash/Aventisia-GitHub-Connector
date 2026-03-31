@@ -405,5 +405,3 @@ curl -H "Authorization: token $TOKEN" "$BASE/repos?username=torvalds"
 curl -H "Authorization: token $TOKEN" "$BASE/issues/facebook/react?state=open"
 curl -H "Authorization: token $TOKEN" "$BASE/commits/facebook/react?sha=main"
 ```
-#   A v e n t i s i a - G i t H u b - C o n n e c t o r  
- 
